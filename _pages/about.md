@@ -10,7 +10,7 @@ redirect_from:
 
 Hi, I'm Linh or Levi. I am a first year PhD student about Machine Learning at Applied Artificial Intelligence Institute (A2I2), Deakin University, advised by [Prof. Sunil Gupta](https://personal-sites.deakin.edu.au/~sunilg/) and [Dr. Hung Tran The](https://scholar.google.com.au/citations?user=um-FS-gAAAAJ&hl=en). Before that, I graduated from University of Engineering and Technology, Vietnam National University Hanoi, with an first-class degree in Information Technology's (Honors Program). 
 
-My research interests are about Machine Learning problems and now I'm forcussing on Reinforcement Learning problems in Offline setting.
+My research interests are about Machine Learning problems and now I'm focussing on Reinforcement Learning problems in Offline setting.
 
 News and Updates
 ======
