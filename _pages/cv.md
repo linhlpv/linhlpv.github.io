@@ -7,4 +7,4 @@ author_profile: true
 #   - /resume
 ---
 
-[Available at PDF format](http://linhlpv.github.io/files/Academic_resume_Sept_22.pdf)
+[Available at PDF format](http://linhlpv.github.io/files/CV.pdf)
