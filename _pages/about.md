@@ -15,7 +15,6 @@ My research interests are about Machine Learning problems. I'm focussing on Rein
 News and Updates
 ======
 2023
-------
 - 12/23: My paper on transfer in Reinforcement Learning was accepted for presentation at [AAMAS 2024](https://www.aamas2024-conference.auckland.ac.nz/) in Auckland, New Zealand. Grateful to my supervisors for their invaluable support.
 
 2022
