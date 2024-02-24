@@ -2,7 +2,7 @@
 title: "Policy Learning for Off-Dynamics RL with Deficient Support"
 collection: publications
 permalink: /publication/dads
-excerpt: 'Published/Accepted at AAMAS-2024(Oral).'
+excerpt: 'Accepted at AAMAS-2024(Oral). This work presents an algorithm for Cross domain adaptation in RL with the Deficient support in transition dynamics functions.'
 date: 2023-12-21
 venue: 'AAMAS'
 paperurl: 'https://arxiv.org/pdf/2402.10765v1.pdf'
