@@ -18,7 +18,7 @@ News and Updates
 
 2023
 ------
-- 12/23: My paper on Cross domain in Reinforcement Learning with Deficient Support was accepted for *oral* presentation at [AAMAS 2024](https://www.aamas2024-conference.auckland.ac.nz/) in Auckland, New Zealand. Grateful to my supervisors for their invaluable support.
+- 12/23: My paper on Cross domain in Reinforcement Learning with Deficient Support was accepted (Oral presentation) at [AAMAS 2024](https://www.aamas2024-conference.auckland.ac.nz/) in Auckland, New Zealand. Grateful to my supervisors for their invaluable support.
 
 2022
 ------
