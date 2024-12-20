@@ -10,7 +10,8 @@ redirect_from:
 
 Hi, I'm Linh or Levi. I am a PhD student about Machine Learning at Applied Artificial Intelligence Institute (A2I2), Deakin University, advised by [Prof. Sunil Gupta](https://personal-sites.deakin.edu.au/~sunilg/) and [Dr. Hung Tran The](https://scholar.google.com.au/citations?user=um-FS-gAAAAJ&hl=en). Before that, I graduated from University of Engineering and Technology, Vietnam National University Hanoi, with a first-class degree in Information Technology's (Honors Program). 
 
-My research interests are about Machine Learning problems. Currently, I'm focussing on Reinforcement Learning problems in Offline and Offline-Online settings, Transfer Learning, Robustness and Generalization with the aim to develop Sample Efficient RL Algorithms.
+<!-- My research interests are about Machine Learning problems. Currently, I'm focussing on Reinforcement Learning problems in Offline and Offline-Online settings, Transfer Learning, Robustness and Generalization with the aim to develop Sample Efficient RL Algorithms. I'm also intersted on Diffusion Model with its applications for Reinforcement Learning. -->
+My research interests lie in Machine Learning, with a current focus on Reinforcement Learning in Offline and Offline-Online settings, as well as Transfer Learning, Robustness, and Generalization. My goal is to develop sample-efficient RL algorithms. Additionally, I am interested in Diffusion Models and their applications in Reinforcement Learning.
 
 News and Updates
 ======
