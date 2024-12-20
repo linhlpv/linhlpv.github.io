@@ -8,12 +8,16 @@ redirect_from:
   # - /about.html
 ---
 
-Hi, I'm Linh or Levi. I am a PhD student about Machine Learning at Applied Artificial Intelligence Institute (A2I2), Deakin University, advised by [Prof. Sunil Gupta](https://personal-sites.deakin.edu.au/~sunilg/) and [Dr. Hung Tran The](https://scholar.google.com.au/citations?user=um-FS-gAAAAJ&hl=en). Before that, I graduated from University of Engineering and Technology, Vietnam National University Hanoi, with an first-class degree in Information Technology's (Honors Program). 
+Hi, I'm Linh or Levi. I am a PhD student about Machine Learning at Applied Artificial Intelligence Institute (A2I2), Deakin University, advised by [Prof. Sunil Gupta](https://personal-sites.deakin.edu.au/~sunilg/) and [Dr. Hung Tran The](https://scholar.google.com.au/citations?user=um-FS-gAAAAJ&hl=en). Before that, I graduated from University of Engineering and Technology, Vietnam National University Hanoi, with a first-class degree in Information Technology's (Honors Program). 
 
 My research interests are about Machine Learning problems. Currently, I'm focussing on Reinforcement Learning problems in Offline and Offline-Online settings, Transfer Learning, Robustness and Generalization with the aim to develop Sample Efficient RL Algorithms.
 
 News and Updates
 ======
+
+2024
+------
+- 12/24: My paper on Cross-domain Offline RL with limited target samples setting got accepted at [GenPlan2025 workshop](https://aair-lab.github.io/genplan25/) at [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/). 
 
 
 2023
