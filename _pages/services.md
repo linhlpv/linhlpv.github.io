@@ -5,8 +5,6 @@ permalink: /services/
 author_profile: true
 ---
 
-Services
-======
 
 **Reviewer:** RLC (2025).
 
