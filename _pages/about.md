@@ -11,7 +11,9 @@ redirect_from:
 Hi, I'm Linh or Levi. I am a PhD student about Machine Learning at Applied Artificial Intelligence Institute (A2I2), Deakin University, advised by [Prof. Sunil Gupta](https://personal-sites.deakin.edu.au/~sunilg/) and [Dr. Hung Tran The](https://scholar.google.com.au/citations?user=um-FS-gAAAAJ&hl=en). Before that, I graduated from University of Engineering and Technology, Vietnam National University Hanoi, with a first-class degree in Information Technology's (Honors Program). 
 
 <!-- My research interests are about Machine Learning problems. Currently, I'm focussing on Reinforcement Learning problems in Offline and Offline-Online settings, Transfer Learning, Robustness and Generalization with the aim to develop Sample Efficient RL Algorithms. I'm also intersted on Diffusion Model with its applications for Reinforcement Learning. -->
-My research interests lie in Machine Learning, with a current focus on Reinforcement Learning in Offline and Offline-Online settings, as well as Transfer Learning, Robustness, and Generalization. My goal is to develop sample-efficient RL algorithms. Additionally, I am interested in Diffusion Models and their applications in Reinforcement Learning.
+<!-- My research interests lie in Machine Learning, with a current focus on Reinforcement Learning in Offline and Offline-Online settings, as well as Transfer Learning, Robustness, and Generalization. My goal is to develop sample-efficient RL algorithms, as well as to bring RL algorithms to real world applications in robotics or LLMs. Additionally, I am interested in Diffusion Models and their applications in Reinforcement Learning. -->
+
+My research interests center on Machine Learning, with a current focus on Reinforcement Learning (RL) in both offline and offline-online settings, alongside Transfer Learning, Robustness, and Generalization. My goal is to develop sample-efficient RL algorithms and apply them to real-world scenarios, particularly in robotics and large language models (LLMs). I am also interested in exploring the applications of Diffusion Models within the context of Reinforcement Learning.
 
 News and Updates
 ======
