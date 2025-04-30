@@ -18,6 +18,10 @@ My research interests center on Machine Learning, with a current focus on Reinfo
 News and Updates
 ======
 
+2025
+------
+- 04/25: Our paper on Offline RL got accepted at [IJCAI 2025](https://2025.ijcai.org/). Congrats [Hoang](https://www.linkedin.com/in/minh-hoang-henry-nguyen-521500175/). 
+
 2024
 ------
 - 12/24: My paper on Cross-domain Offline RL with limited target samples setting got accepted at [GenPlan2025 workshop](https://aair-lab.github.io/genplan25/) at [AAAI 2025](https://aaai.org/conference/aaai/aaai-25/). 
