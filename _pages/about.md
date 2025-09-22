@@ -8,18 +8,27 @@ redirect_from:
   # - /about.html
 ---
 
-Hi, I'm Linh or Levi. I am a PhD student about Machine Learning at Applied Artificial Intelligence Institute (A2I2), Deakin University, advised by [Prof. Sunil Gupta](https://personal-sites.deakin.edu.au/~sunilg/) and [Dr. Hung Tran The](https://scholar.google.com.au/citations?user=um-FS-gAAAAJ&hl=en). Before that, I graduated from University of Engineering and Technology, Vietnam National University Hanoi, with a first-class degree in Information Technology's (Honors Program). 
+<!-- Hi, I'm Linh or Levi. I am a PhD student about Machine Learning at Applied Artificial Intelligence Institute (A2I2), Deakin University, advised by [Prof. Sunil Gupta](https://personal-sites.deakin.edu.au/~sunilg/) and [Dr. Hung Tran The](https://scholar.google.com.au/citations?user=um-FS-gAAAAJ&hl=en). Before that, I graduated from University of Engineering and Technology, Vietnam National University Hanoi, with a first-class degree in Information Technology's (Honors Program). 
 
 <!-- My research interests are about Machine Learning problems. Currently, I'm focussing on Reinforcement Learning problems in Offline and Offline-Online settings, Transfer Learning, Robustness and Generalization with the aim to develop Sample Efficient RL Algorithms. I'm also intersted on Diffusion Model with its applications for Reinforcement Learning. -->
 <!-- My research interests lie in Machine Learning, with a current focus on Reinforcement Learning in Offline and Offline-Online settings, as well as Transfer Learning, Robustness, and Generalization. My goal is to develop sample-efficient RL algorithms, as well as to bring RL algorithms to real world applications in robotics or LLMs. Additionally, I am interested in Diffusion Models and their applications in Reinforcement Learning. -->
 
-My research interests center on Machine Learning, with a current focus on Reinforcement Learning (RL) in both offline and offline-online settings, alongside Transfer Learning, Robustness, and Generalization. My goal is to develop sample-efficient RL algorithms and apply them to real-world scenarios, particularly in robotics and large language models (LLMs). I am also interested in exploring the applications of Diffusion Models and Foundation Models (VLMs/LLMs) within the context of Reinforcement Learning.
+<!-- My research interests center on Machine Learning, with a current focus on Reinforcement Learning (RL) in both offline, online and offline to online settings, alongside Transfer Learning, Robustness, Generalization and In-context RL. My goal is to develop scalable, sample-efficient RL algorithms and apply them to real-world scenarios, particularly in robotics and large language models (LLMs). I am also interested in exploring the applications of Diffusion Models and Foundation Models (VLMs/LLMs) within the context of Reinforcement Learning.
+
+**I expect to graduate in Spring 2026, and I am actively seeking postdoc position or research positions in industry.** I’m always open to discussions and potential collaborations! Feel free to reach out to me via email if you have a potential role that might be a good fit, are interested in collaboration, or simply want to chat about research. -->
+
+Hi, I'm Linh or Levi. I am a PhD student about Machine Learning at Applied Artificial Intelligence Institute (A2I2), Deakin University, advised by [Prof. Sunil Gupta](https://personal-sites.deakin.edu.au/~sunilg/) and [Dr. Hung Tran The](https://scholar.google.com.au/citations?user=um-FS-gAAAAJ&hl=en). Previously, I earned a first-class honors degree in Information Technology from the University of Engineering and Technology, Vietnam National University, Hanoi.
+
+My research interests center on Machine Learning, with a current focus on Reinforcement Learning (RL) in offline, online, and offline-to-online settings. I work on Transfer Learning, Robustness, Generalization, and In-context RL problems, aiming to develop scalable, sample-efficient RL algorithms for real-world applications such as robotics and large language models (LLMs). I am also interested in the applications of Diffusion Models and Foundation Models (LLMs/VLMs) within the context of RL.
+
+**I expect to graduate in Spring 2026, and I am actively seeking postdoc position or research positions in industry**. I’m always open to discussions and collaborations—please feel free to reach out via email if you have a potential opportunity in mind, are interested in collaborating, or would just like to chat about research.
 
 News and Updates
 ======
 
 2025
 ------
+- 09/25: Attend ECML-PKDD 2025 and EWRL 2025.
 - 07/25: Our paper on Offline Cross domain RL got accepted at [ECAI 2025](https://ecai2025.org/).
 - 05/25: Our paper on Hybrid Robust RL got accepted at [ECML 2025](https://ecmlpkdd.org/2025/). 
 - 04/25: Our paper on Offline RL got accepted at [IJCAI 2025](https://2025.ijcai.org/). Congrats [Hoang](https://www.linkedin.com/in/minh-hoang-henry-nguyen-521500175/). 
