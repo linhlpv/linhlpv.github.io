@@ -29,7 +29,7 @@ News and Updates
 2025
 ------
 - 09/25: Attend ECML-PKDD 2025 and EWRL 2025.
-- 07/25: Our paper on Offline Cross domain RL got accepted at [ECAI 2025](https://ecai2025.org/).
+- 07/25: Our paper on Offline Cross domain RL got accepted (Oral presentation) at [ECAI 2025](https://ecai2025.org/).
 - 05/25: Our paper on Hybrid Robust RL got accepted at [ECML 2025](https://ecmlpkdd.org/2025/). 
 - 04/25: Our paper on Offline RL got accepted at [IJCAI 2025](https://2025.ijcai.org/). Congrats [Hoang](https://www.linkedin.com/in/minh-hoang-henry-nguyen-521500175/). 
 
