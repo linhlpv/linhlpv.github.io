@@ -1,18 +1,18 @@
-primary_name: "Your Name"
+primary_name: "Linh Le"
 secondary_name: ""
-navbar_name: "Your Name"
+navbar_name: "LinhLPV"
 
 positions:
-- name: Title or Position
-- name: Affiliation Name
-  logo: /assets/images/badges/MIT_Social_circle.png  # Logo is optional
+- name: PhD Candidate
+- name: A2I2, Deakin University
+  logo: /assets/images/badges/a2i2_logo_old.png  # Logo is optional
 
 
-email: "your@email.com"
+email: "lephamvanlinh@gmail.com"
 # cv_link: link-to-your-cv-file
-gscholar: xFmQpf4AAAAJ  # This is an example, replace it with your own Google Scholar ID
-github: your_github_id
-twitter: your_twitter_id  # Do not include the '@' symbol
+gscholar: WgFqs3oAAAAJ  # This is an example, replace it with your own Google Scholar ID
+github: linhlpv
+twitter: linhlpv  # Do not include the '@' symbol
 # wechat_qrcode: /assets/images/etc/wechat.jpg
 # wechat_prompt: >-
 #   Please tell me your <strong>name</strong> and <strong>affiliation</strong> (current or past) when adding my wechat. Thanks!
@@ -22,40 +22,59 @@ twitter: your_twitter_id  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    A <a href="https://en.wikipedia.org/wiki/Bicolor_cat" target="_blank">bicolor cat</a> is a cat with white fur combined with fur of some other colour, for example solid black, tabby, or colourpointed.
+    Hi, I am Linh or Levi. I'm a PhD candidate at Applied Artificial Intelligence Institute (A2I2), Deakin University, advised by <a href="https://experts.deakin.edu.au/2643-sunil-gupta"> Prof. Sunil Gupta </a> and <a href="https://scholar.google.com.au/citations?user=um-FS-gAAAAJ&hl=en"> Dr. Hung Tran The </a>. Previously, I earned a first-class honors degree in Information Technology from the University of Engineering and Technology, Vietnam National University, Hanoi.
   </p>
   <p>
-    There are various patterns of a bicolour cat. These range from the Van-patterned (colour on the crown of the head 
-    and the tail only) to a solid colour with a throat locket or medallion. Bicolour coats are found in many cat breeds, 
-    as well as being common in domestic longhair and domestic shorthair cats.
+    My research interests center on Machine Learning, with a current focus on Reinforcement Learning (RL) in offline, online, and offline-to-online settings. I am also interested in the applications of Diffusion Models and Foundation Models (LLMs/VLMs) within the context of RL.
   </p>
 
-portrait_url: /assets/images/photos/portrait.jpg
+  <p>
+    I'm always open to discussions and collaborations. Please feel free to reach out via email if you have a potential opportunity in mind, are interested in collaborating, or would just like to chat about research. 
+  </p>
+
+  <p>
+    Outside of research, I love reading books, listening music, taking photos, running (both road and trails marathon), cycling, and hiking. I'm also learning to play (classic) guitar. 
+  </p>
+  
+
+portrait_url: /assets/images/photos/ams.jpg
 portrait_caption: >-
-  Photo by Manja Vitolic on Unsplash (this caption is optional, comment it out to disable).
+  Photo by Phi Nguyen and Dinh Tuan Nguyen in Amsterdam.
 
 education:
-- name: Massachusetts Institute of Technology
-  logo: /assets/images/badges/MIT_Social_circle.png
+- name: A2I2, Deakin University
+  logo: /assets/images/badges/a2i2_logo_old.png
   position: >- 
-    Department of Electrical Engineering and Computer Science <br/>
-    Ph.D. Student
-  date: Sep. 2024 - present
-- name: Peking University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
-  date: Sep. 2019 - Jul. 2021
+    Deakin Applied Artificial Intelligence Initiative <br/>
+    Ph.D. Candidate
+  date: Aug. 2022 - present
+- name: University of Engineering and Technology, Vietnam National University, Hanoi
+  logo: /assets/images/badges/uet.png
+  position: B.S. in Computer Science (Honor Program)
+  date: Sep. 2016 - Jul. 2020
 
-# experience:
-# - name: Peking University
-#   logo: /assets/images/badges/PKU_red.png
-#   position: Research Intern
-#   date: Sep. 2019 - Jul. 2021
+
 
 awards:
-- name: Award Name 2
-  date: 2024
-- name: Award Name 1 
-  date: 2021
-- name: A quick brown fox jumps over the lazy dog and runs away award
-  date: 2021
+- name: Deakin University Postgraduate Research Scholarship for PhD candidature.
+  date: 2022
+- name: Certificate of merit awarded by the VNU University of Engineering and Technology for Outstanding student of the entire course.
+  date: 2020
+- name: 1st Digital Race FPT (Autonomous car competition) 2019, round UET.
+  date: 2019
+
+experience:
+- name: VNU University of Engineering and Technology 
+  logo: /assets/images/badges/uet.png
+  position:  >- 
+    Teaching assistant for the Computer science courses: Introduction to Informatics, Advanced Programming, Data Structures and Algorithms, Image Processing.
+  date: Sep. 2020 - Jul. 2022
+- name: UET AILab, Vietnam National University
+  logo: /assets/images/badges/uet.png
+  # logo2: /assets/images/badges/logo-vlg-text.png
+  position:  >- 
+    Reasearch about Medical Image Translation.
+  date: Sep. 2020 - Jul. 2022
+
+services:
+- Reviews: TMLR (2025, 2026), RLC (2025, 2026), ECML(2025), ACML(2025), EWRL (2025).
