@@ -10,7 +10,7 @@ pub_ab:         "IJCAI"
 pub_date:       "2025"
 
 abstract: >-
-  Decision Transformers (DT) play a crucial role in modern reinforcement learning, leveraging offline datasets to achieve impressive results across various domains. However, DT requires high-quality, comprehensive data to perform optimally. In real-world applications, the lack of training data and the scarcity of optimal behaviours make training on offline datasets challenging, as suboptimal data can hinder performance. To address this, we propose the Counterfactual Reasoning Decision Transformer (CRDT), a novel framework inspired by counterfactual reasoning. CRDT enhances DT ability to reason beyond known data by generating and utilizing counterfactual experiences, enabling improved decision-making in unseen scenarios. Experiments across Atari and D4RL benchmarks, including scenarios with limited data and altered dynamics, demonstrate that CRDT outperforms conventional DT approaches. Additionally, reasoning counterfactually allows the DT agent to obtain stitching abilities, combining suboptimal trajectories, without architectural modifications. These results highlight the potential of counterfactual reasoning to enhance reinforcement learning agents' performance and generalization capabilities.
+  Decision Transformers often struggle in real-world offline RL because datasets are limited and dominated by suboptimal behavior. We propose CRDT, which injects counterfactual experiences to enable out-of-distribution reasoning and trajectory stitching without architectural changes, and show consistent improvements over standard DT on Atari and D4RL, including limited-data and dynamics shifted settings.
 # cover:          /assets/images/covers/cover3.jpg 
 authors:
   - Minh Hoang Nguyen
