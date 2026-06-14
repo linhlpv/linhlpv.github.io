@@ -3,7 +3,7 @@ secondary_name: ""
 navbar_name: ""
 
 positions:
-- name: PhD Candidate
+- name: PhD in Computer Science
 - name: A2I2, Deakin University
   logo: /assets/images/badges/a2i2_logo_old.png  # Logo is optional
 
@@ -25,7 +25,7 @@ short_bio: >-
     Hi, I am Linh or Levi. I'm a PhD candidate at Applied Artificial Intelligence Institute (A2I2), Deakin University, advised by <a href="https://experts.deakin.edu.au/2643-sunil-gupta"> Prof. Sunil Gupta </a> and <a href="https://scholar.google.com.au/citations?user=um-FS-gAAAAJ&hl=en"> Dr. Hung Tran The </a>. Previously, I earned a first-class honors degree in Information Technology from the University of Engineering and Technology, Vietnam National University, Hanoi.
   </p>
   <p>
-    My research interests center on Machine Learning, with a current focus on Reinforcement Learning (RL) in offline, online, and offline-to-online settings. I am also interested in the applications of Diffusion Models and Foundation Models (LLMs/VLMs) within the context of RL.
+    My research interests center on Machine Learning, with a current focus on Reinforcement Learning and World Models. I am particularly interested in exploring how to effectively learn world models from high-dimensional data and leverage them for decision-making in complex environments. My work aims to contribute to the development of more efficient and robust algorithms for learning and planning in reinforcement learning settings. 
   </p>
 
   <p>
@@ -47,7 +47,7 @@ education:
   position: >- 
     Deakin Applied Artificial Intelligence Initiative <br/>
     Ph.D. Candidate
-  date: Aug. 2022 - present
+  date: Aug. 2022 - Feb. 2026
 - name: University of Engineering and Technology, Vietnam National University, Hanoi
   logo: /assets/images/badges/uet.png
   position: B.S. in Computer Science (Honor Program)
@@ -73,8 +73,8 @@ experience:
   logo: /assets/images/badges/uet.png
   # logo2: /assets/images/badges/logo-vlg-text.png
   position:  >- 
-    Reasearch about Medical Image Translation.
+    Research about Medical Image Translation.
   date: Sep. 2020 - Jul. 2022
 
 services:
-- Reviews: TMLR (2025, 2026), RLC (2025, 2026), ECML(2025), ACML(2025), EWRL (2025).
+- Reviews: TMLR (2025-now), RLC (2025-now), ECML(2025), ACML(2025), EWRL (2025-now).
