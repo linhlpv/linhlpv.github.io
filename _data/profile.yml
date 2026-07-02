@@ -3,9 +3,10 @@ secondary_name: ""
 navbar_name: ""
 
 positions:
-- name: PhD in Computer Science
-- name: A2I2, Deakin University
-  logo: /assets/images/badges/a2i2_logo_old.png  # Logo is optional
+- name: Independent Researcher
+# - name: PhD in Computer Science
+# - name: A2I2, Deakin University
+#   logo: /assets/images/badges/a2i2_logo_old.png  # Logo is optional
 
 
 email: "lephamvanlinh@gmail.com"
@@ -60,7 +61,7 @@ awards:
   date: 2022
 - name: Certificate of merit awarded by the VNU University of Engineering and Technology for Outstanding student of the entire course.
   date: 2020
-- name: 1st Digital Race FPT (Autonomous car competition) 2019, round UET.
+- name: 1st Place in Digital Race FPT (Autonomous car competition) 2019, round UET.
   date: 2019
 
 experience:
