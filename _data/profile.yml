@@ -6,7 +6,7 @@ positions:
 - name: Postdoctoral Researcher
 - name: D3M Lab, UofT
 # - name: A2I2, Deakin University
-#   logo: /assets/images/badges/a2i2_logo_old.png  # Logo is optional
+  logo: /assets/images/badges/uoft.ico  # Logo is optional
 
 
 email: "lephamvanlinh@gmail.com"
