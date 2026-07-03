@@ -23,10 +23,10 @@ twitter: linhlpv  # Do not include the '@' symbol
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    Hi, I am Linh or Levi. I'm a PhD candidate at Applied Artificial Intelligence Institute (A2I2), Deakin University, advised by <a href="https://experts.deakin.edu.au/2643-sunil-gupta"> Prof. Sunil Gupta </a> and <a href="https://scholar.google.com.au/citations?user=um-FS-gAAAAJ&hl=en"> Dr. Hung Tran The </a>. Previously, I earned a first-class honors degree in Information Technology from the University of Engineering and Technology, Vietnam National University, Hanoi.
+    Hi, my name is Linh. I'm a postdoctoral researcher at UofT, advised by <a href="https://scholar.google.com/citations?user=kB8UPNIAAAAJ"> Prof. Scott Sanner</a>. Before joining UofT, I received my PhD in Computer Science from A2I2, Deakin University, my BSc. Hons in Information Technology from the University of Engineering and Technology, Vietnam National University, Hanoi.
   </p>
   <p>
-    My research interests center on Machine Learning, with a current focus on Reinforcement Learning and World Models. I am particularly interested in exploring how to effectively learn world models from high-dimensional data and leverage them for decision-making in complex environments. My work aims to contribute to the development of more efficient and robust algorithms for learning and planning in reinforcement learning settings. 
+    My research interests center on Machine Learning, with a current focus on Reinforcement Learning and World Models. I am particularly interested in exploring how to effectively learn world models from high-dimensional data and leverage them for decision-making in complex environments. My work aims to contribute to the development of more efficient and robust algorithms for decision-making in real-world scenarios, where uncertainty and complexity are prevalent. 
   </p>
 
   <p>
@@ -34,7 +34,7 @@ short_bio: >-
   </p>
 
   <p>
-    Outside of research, I love reading books, listening music, taking photos, running (both road and trails marathon), cycling, and hiking. I'm also learning to play (classic) guitar. 
+    Outside of research, I enjoy coding and building things. In my spare time, I love reading books, listening to music, taking photos, running (both road and trails marathon), cycling, and hiking. I'm also learning to play (classic) guitar. 
   </p>
   
 
